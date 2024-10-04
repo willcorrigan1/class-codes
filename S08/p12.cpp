@@ -13,4 +13,12 @@ int main() {
             cout << "Wrong!\n";
         }
     }
+
+    //solution 2
+    string password;
+    for(  ;password != "Saddleback!";   ) {
+        cout << "Enter the password:";
+        getline(cin, password);
+    }
+    cout << "You got it!!\n";
 }
