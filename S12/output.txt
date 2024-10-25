@@ -1,0 +1,5 @@
+today is Thursday
+we are in c++ programming class
+We are learning about files
+We are going to be great programmers
+bye

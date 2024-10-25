@@ -9,4 +9,5 @@ int main() {
         getline(inputFile, s); 
         cout << s << endl; 
     }
+    inputFile.close(); 
 }

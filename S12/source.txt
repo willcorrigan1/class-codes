@@ -1,0 +1,6 @@
+1- today is Thursday
+2- we are in c++ programming class
+3- We are learning about files
+4- We are going to be great programmers
+5- bye
+6- 
